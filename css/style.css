@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-image: url(/img/main_bg.png);
+	background-image: url(../img/main_bg.png);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -70,7 +70,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	line-height: 40px;
 	color: #323232;
 	padding-left: 30px;
-	background-image: url(/img/Logo.png);
+	background-image: url(../img/Logo.png);
 	background-repeat: no-repeat;
 }
 
