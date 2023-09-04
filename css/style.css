@@ -103,6 +103,9 @@ nav{
 	justify-content: space-around;
 	align-items: center;
 }
+.nav__list{
+	display: flex;
+}
 .nav__list ul{
 	display: flex;
 	justify-content: space-around;
