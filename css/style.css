@@ -914,6 +914,7 @@ input{
 }
 .moreoptions__row {
 	display: flex;
+	flex-direction: column;
 }
 .moreoptions__column {
 	padding-left: 65px;
@@ -940,10 +941,9 @@ input{
 	text-decoration: underline;
 }
 .moreoptions__feedback{
-	margin-left: 370px;
-	margin-top: -40px;
 	display: flex;
 	justify-content: center;
+	margin: 20px 0px 0px 60px;
 }
 .moreoptions__feedback input {
 	width: 491px;
@@ -962,7 +962,9 @@ input{
 	line-height: 20px;
 	color: #fff;
 }
-
+.moreoptions__blocknav{
+	display: flex;
+}
 .moreoptions__search:hover{
 	color: #000;
 }
